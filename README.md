@@ -14,6 +14,12 @@ This repository is to make Golang (Go programming language) community even more 
 * [Just Google](www.google.com)
 * [Go Language Specification](https://golang.org/ref/spec)
 
+## Videos
+
+* [FOSDEM](https://www.youtube.com/user/fosdemtalks/search?query=go) - from FOSDEM conferences
+* [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA) - from GopherCons
+* [Golang.org Youtube](https://www.youtube.com/user/gocoding/videos) - from different sources
+
 # Ask Questions
 
 ## Ask From the Community
@@ -35,7 +41,13 @@ This repository is to make Golang (Go programming language) community even more 
 
 * [golang-nuts](https://groups.google.com/forum/?fromgroups=#!forum/golang-nuts) - general Go mailing list
 * [golang-dev](https://groups.google.com/forum/?fromgroups=#!forum/golang-dev) - development mailing list
+* [The Go Blog](https://blog.golang.org/)
 
-# Also, a good list of Go resources:
+
+# Also, a Good List of Go Resources:
 
 * [Stack Overflow list of Go resources](https://stackoverflow.com/tags/go/info)
+
+# Best of
+
+* [Google I/O 2012 - Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) - Rob Pike about concurrency
