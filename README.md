@@ -13,11 +13,13 @@ This repository is to make Golang (Go programming language) community even more 
 
 * [Just Google](www.google.com)
 * [Go Language Specification](https://golang.org/ref/spec)
+* [Documentation of Go packages](https://godoc.org/)
 
 ## Videos
 
 * [FOSDEM](https://www.youtube.com/user/fosdemtalks/search?query=go) - from FOSDEM conferences
 * [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA) - from GopherCons
+* [dotGo](https://www.dotconferences.com/conference/dotgo) - from dotGo Paris
 * [Golang.org Youtube](https://www.youtube.com/user/gocoding/videos) - from different sources
 
 # Ask Questions
