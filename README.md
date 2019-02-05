@@ -11,13 +11,14 @@ This repository is to make Golang (Go programming language) community even more 
 
 ## Digging Deeper
 
-* [Just Google](www.google.com)
+* [Just Google](www.google.com) or search in [DuckDuckGo](https://duckduckgo.com/)
 * [Go Language Specification](https://golang.org/ref/spec)
 * [Documentation of Go packages](https://godoc.org/)
 
 ## Videos
 
-* [FOSDEM](https://www.youtube.com/user/fosdemtalks/search?query=go) - from FOSDEM conferences
+* [FOSDEM in YouTube](https://www.youtube.com/user/fosdemtalks/search?query=go) - from FOSDEM conferences
+* [FOSDEM archive](https://video.fosdem.org/2019/UD2.120/) - Go & Python devroom videos from FOSDEM 2019 (earlier videos are also available)
 * [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA) - from GopherCons
 * [dotGo](https://www.dotconferences.com/conference/dotgo) - from dotGo Paris
 * [Golang.org Youtube](https://www.youtube.com/user/gocoding/videos) - from different sources
@@ -32,8 +33,9 @@ This repository is to make Golang (Go programming language) community even more 
 
 ## Ask From the Community
 
-* [Stack Overflow](https://stackoverflow.com/questions/tagged/go)
-* [Golangbridge forum](https://forum.golangbridge.org/)
+* [Golangbridge forum](https://forum.golangbridge.org/) - Golang Forum
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/go) - Q&A with a Go tag
+* [Stack Overflow](https://stackoverflow.com/search?q=user:1705598+[go]) - responses by icza
 
 ## Asking Interactively
 
@@ -42,7 +44,7 @@ This repository is to make Golang (Go programming language) community even more 
 
 ## Asking Face-to-Face
 
-* [Go Meetups](https://www.meetup.com/golang-amsterdam/) - look for Golang Meetups near you
+* [Go Meetups](https://www.meetup.com/) - look for Golang Meetups near you
 * [Conferences](https://github.com/golang/go/wiki/Conferences)
 
 # Stay Informed
