@@ -24,6 +24,10 @@ This repository is to make Golang (Go programming language) community even more 
 * [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) - by Francesc Campoy
 * [LearnToCode](https://www.youtube.com/user/toddmcleod/search?query=golang) - by Todd McLeod
 
+## What Else is out There?
+
+* [GitHub Trending](https://github.com/trending/go?since=monthly) - Most starred Go repositories
+
 # Ask Questions
 
 ## Ask From the Community
