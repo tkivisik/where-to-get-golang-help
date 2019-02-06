@@ -51,6 +51,7 @@ This repository is to make Golang (Go programming language) community even more 
 
 * [golang-nuts](https://groups.google.com/forum/?fromgroups=#!forum/golang-nuts) - general Go mailing list
 * [golang-dev](https://groups.google.com/forum/?fromgroups=#!forum/golang-dev) - development mailing list
+* [Release dashboard](https://dev.golang.org/release)
 * [The Go Blog](https://blog.golang.org/)
 
 
