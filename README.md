@@ -17,13 +17,15 @@ This repository is to make Golang (Go programming language) community even more 
 
 ## Videos
 
-* [FOSDEM in YouTube](https://www.youtube.com/user/fosdemtalks/search?query=go) - from FOSDEM conferences
-* [FOSDEM archive](https://video.fosdem.org/2019/UD2.120/) - Go & Python devroom videos from FOSDEM 2019 (earlier videos are also available)
+* FOSDEM - Free and Open Source Developers' European Meetup (Brussels)
+    * [FOSDEM in YouTube](https://www.youtube.com/user/fosdemtalks/search?query=go)
+    * [FOSDEM archive](https://fosdem.org/2019/schedule/events/) - search Go devroom, change the 2019 to some previous year to see older videos.
 * [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA) - from GopherCons
-* [dotGo](https://www.dotconferences.com/conference/dotgo) - from dotGo Paris
+* [dotGo](https://www.dotconferences.com/conference/dotgo) - from dotGo in Paris
 * [Golang.org Youtube](https://www.youtube.com/user/gocoding/videos) - from different sources
 * [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) - by Francesc Campoy
 * [LearnToCode](https://www.youtube.com/user/toddmcleod/search?query=golang) - by Todd McLeod
+* [Gophercises](https://gophercises.com/) - by Jon Calhoun
 
 ## What Else is out There?
 
